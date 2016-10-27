@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11451136642638,
+          42.38077397745277
+        ]
+      },
+      "type": "Feature",
+      "id": 449,
+      "properties": {
+        "NodeNumber": 662,
+        "GlobalID": "{A4166F0A-ACD0-4F90-85AB-1C74F92E0BC0}",
+        "obj-type": "from",
+        "P_X": 760319.47,
+        "P_Y": 2964019.08,
+        "Intersection": "Gorham St & Hammond St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10094489739528,
+          42.36678795584552
+        ]
+      },
+      "type": "Feature",
+      "id": 806,
+      "properties": {
+        "obj-type": "from",
+        "P_Y": 2958939.13,
+        "NodeNumber": 1635,
+        "P_X": 764008.73,
+        "GlobalID": "{28EFF63F-208C-4053-AA0D-C892C2386977}"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09047168103471,
+          42.373216275680754
+        ]
+      },
+      "type": "Feature",
+      "id": 1048,
+      "properties": {
+        "NodeNumber": 1119,
+        "GlobalID": "{83BC931A-1ACA-4D08-B427-CB2E99ECB5CD}",
+        "obj-type": "from",
+        "P_X": 766827.77999999,
+        "P_Y": 2961295.16,
+        "Intersection": "Harding St & Jefferson St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1330583893444,
+          42.38142180335085
+        ]
+      },
+      "type": "Feature",
+      "id": 432,
+      "properties": {
+        "NodeNumber": 640,
+        "GlobalID": "{04375730-1D45-4360-B930-EC4CE1030805}",
+        "obj-type": "from",
+        "P_X": 755307.38,
+        "P_Y": 2964233.06,
+        "Intersection": "Huron Ave & Royal Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10684678987779,
+          42.37161793416388
+        ]
+      },
+      "type": "Feature",
+      "id": 1150,
+      "properties": {
+        "NodeNumber": 1274,
+        "GlobalID": "{E8C47BE2-AF06-4CC8-88B0-23296628D141}",
+        "obj-type": "from",
+        "P_X": 762405.68,
+        "P_Y": 2960691.87,
+        "Intersection": "Broadway & Crawford St & Highland Ave",
+        "IntersectingStreetCount": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09796200558844,
+          42.36198574359863
+        ]
+      },
+      "type": "Feature",
+      "id": 1646,
+      "properties": {
+        "NodeNumber": 1916,
+        "GlobalID": "{EDC4E28C-F2E9-417B-8AF2-60AED2B880AE}",
+        "obj-type": "from",
+        "P_X": 764823.08,
+        "P_Y": 2957192.89,
+        "Intersection": "Massachusetts Ave & Village St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11596263631986,
+          42.36146186355373
+        ]
+      },
+      "type": "Feature",
+      "id": 1668,
+      "properties": {
+        "NodeNumber": 1949,
+        "GlobalID": "{6DD342EA-BD5C-4A54-8251-19B164DF5F0F}",
+        "obj-type": "from",
+        "P_X": 759959.05,
+        "P_Y": 2956979.56,
+        "Intersection": "Memorial Dr & River St & River Street Bridge",
+        "IntersectingStreetCount": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10471282604985,
+          42.36987227584972
+        ]
+      },
+      "type": "Feature",
+      "id": 1208,
+      "properties": {
+        "NodeNumber": 1424,
+        "GlobalID": "{0EFBDB69-CA26-48F9-9B27-BC78DE7BA473}",
+        "obj-type": "from",
+        "P_X": 762985.26999999,
+        "P_Y": 2960058.38,
+        "Intersection": "Broadway Ter & West St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14112151046577,
+          42.3843367642752
+        ]
+      },
+      "type": "Feature",
+      "id": 334,
+      "properties": {
+        "NodeNumber": 509,
+        "GlobalID": "{803A2220-9E4F-4BE2-B4FE-B7A0EE0DB5A2}",
+        "obj-type": "from",
+        "P_X": 753124.42,
+        "P_Y": 2965286.07,
+        "Intersection": "Lakeview Ave & Vassal Ln",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0851382685244,
+          42.37255743761123
+        ]
+      },
+      "type": "Feature",
+      "id": 1087,
+      "properties": {
+        "NodeNumber": 1179,
+        "GlobalID": "{AAC17CE4-5D3B-414B-B94F-C9C049D1ADEA}",
+        "obj-type": "from",
+        "P_X": 768270.10999999,
+        "P_Y": 2961062.03,
+        "Intersection": "Gore St & Seventh St",
+        "IntersectingStreetCount": 2
+      }
+    }
+  ]
+}
