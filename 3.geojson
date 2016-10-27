@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11345316355894,
+          42.36927380596101
+        ]
+      },
+      "type": "Feature",
+      "id": 1244,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 1478,
+        "GlobalID": "{8A809AF7-6C5D-4924-A332-378990F3C2B6}",
+        "obj-type": 3,
+        "P_X": 760624.36999999,
+        "P_Y": 2959829.46,
+        "Intersection": "Green St & Putnam Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09820681172505,
+          42.36638280968896
+        ]
+      },
+      "type": "Feature",
+      "id": 1479,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 1661,
+        "GlobalID": "{295E1311-7091-4290-94A8-D3D25FB5593A}",
+        "obj-type": 3,
+        "P_X": 764749.36999999,
+        "P_Y": 2958794.96,
+        "Intersection": "Columbia St & Worcester St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11858101203092,
+          42.37333341151012
+        ]
+      },
+      "type": "Feature",
+      "id": 1045,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 1116,
+        "GlobalID": "{5D6556D4-FE10-4110-A4FD-33A3BB181A3A}",
+        "obj-type": 3,
+        "P_X": 759232.05,
+        "P_Y": 2961302.63,
+        "Intersection": "Dunster St & Massachusetts Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1380191457846,
+          42.398682807373326
+        ]
+      },
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 59,
+        "GlobalID": "{2214504B-5821-45D8-AB80-8EFE6BA73638}",
+        "obj-type": 3,
+        "P_X": 753940.39,
+        "P_Y": 2970517.65,
+        "Intersection": "Kimball St & Whittemore Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09047168103471,
+          42.373216275680754
+        ]
+      },
+      "type": "Feature",
+      "id": 1048,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 1119,
+        "GlobalID": "{83BC931A-1ACA-4D08-B427-CB2E99ECB5CD}",
+        "obj-type": 3,
+        "P_X": 766827.77999999,
+        "P_Y": 2961295.16,
+        "Intersection": "Harding St & Jefferson St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13523011886686,
+          42.4005771941144
+        ]
+      },
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 23,
+        "GlobalID": "{2DC61F95-C72F-4FB7-BFE3-E4026F9062C3}",
+        "obj-type": 3,
+        "P_X": 754690.76999999,
+        "P_Y": 2971211.22,
+        "Intersection": "Magoun St & Massachusetts Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07412584135751,
+          42.36968886984042
+        ]
+      },
+      "type": "Feature",
+      "id": 1785,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 2239,
+        "GlobalID": "{5C1AAD88-0A25-4B6F-B6A8-A433B1B64BB4}",
+        "obj-type": 3,
+        "P_X": 771251.07,
+        "P_Y": 2960031.33,
+        "Intersection": "Monsignor OBrien Hwy & Leighton St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11986798274984,
+          42.38612980583024
+        ]
+      },
+      "type": "Feature",
+      "id": 853,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 429,
+        "GlobalID": "{FF0FA9D9-7FCC-48FB-AF0D-3CC83C43FBE3}",
+        "obj-type": 3,
+        "P_X": 758863.51,
+        "P_Y": 2965964.37
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10449859154818,
+          42.36070664205664
+        ]
+      },
+      "type": "Feature",
+      "id": 1690,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 1978,
+        "GlobalID": "{CA20FD05-C13D-435B-B3AF-B2AA2430DAB5}",
+        "obj-type": 3,
+        "P_X": 763058.65,
+        "P_Y": 2956718.5,
+        "Intersection": "Brookline St & Tudor St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10683075122556,
+          42.36956053564633
+        ]
+      },
+      "type": "Feature",
+      "id": 1355,
+      "properties": {
+        "marker-color": "#ff40ff",
+        "NodeNumber": 1455,
+        "GlobalID": "{0FA205B9-7BC0-4197-A2BB-6ED269D0FACC}",
+        "obj-type": 3,
+        "P_X": 762413.47,
+        "P_Y": 2959942.13
+      }
+    }
+  ]
+}

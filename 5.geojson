@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11343030147779,
+          42.37183982366983
+        ]
+      },
+      "type": "Feature",
+      "id": 1134,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 1253,
+        "GlobalID": "{3002DA0F-0595-43EF-AA3E-5C7D038E50AA}",
+        "obj-type": 5,
+        "P_X": 760626.31,
+        "P_Y": 2960764.6,
+        "Intersection": "Harvard St & Ware St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10614943406907,
+          42.35914411871827
+        ]
+      },
+      "type": "Feature",
+      "id": 742,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 2022,
+        "GlobalID": "{55F0B704-1A63-4379-B713-6C2CDF92C29F}",
+        "obj-type": 5,
+        "P_X": 762615.10999999,
+        "P_Y": 2956147.02,
+        "Intersection": "Brookline St & Erie St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14298555558952,
+          42.38796626117179
+        ]
+      },
+      "type": "Feature",
+      "id": 628,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 373,
+        "GlobalID": "{740ADF6A-5621-4BF9-9491-AD5CB223DC5A}",
+        "obj-type": 5,
+        "P_X": 752615.27999999,
+        "P_Y": 2966606.63,
+        "Intersection": "Concord Ave & Concord Ln",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15100932992966,
+          42.37709941253115
+        ]
+      },
+      "type": "Feature",
+      "id": 1789,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 874,
+        "GlobalID": "{B20934F5-A06A-4A06-8B69-4B51B268D82C}",
+        "obj-type": 5,
+        "P_X": 750463.54,
+        "P_Y": 2962637.53
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07875085367428,
+          42.37014363634822
+        ]
+      },
+      "type": "Feature",
+      "id": 1185,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 1395,
+        "GlobalID": "{00D3432A-C92B-4D2A-92EC-57BB58EFD729}",
+        "obj-type": 5,
+        "P_X": 770000.43999999,
+        "P_Y": 2960190.85,
+        "Intersection": "Otis St & Second St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12140045149664,
+          42.372868714381134
+        ]
+      },
+      "type": "Feature",
+      "id": 1076,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 1166,
+        "GlobalID": "{5BD1AC82-A946-42F2-B48D-306D5D303FE2}",
+        "obj-type": 5,
+        "P_X": 758470.94999999,
+        "P_Y": 2961129.89,
+        "Intersection": "Eliot St & Mt Auburn St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12505733497916,
+          42.38011740793058
+        ]
+      },
+      "type": "Feature",
+      "id": 467,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 688,
+        "GlobalID": "{F1D28EB5-C4DC-44D8-B822-7FA0D71A4BE5}",
+        "obj-type": 5,
+        "P_X": 757471.18999999,
+        "P_Y": 2963767.11,
+        "Intersection": "Garden St & Shepard St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12839126712248,
+          42.38642316548534
+        ]
+      },
+      "type": "Feature",
+      "id": 849,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 416,
+        "GlobalID": "{AEE7C936-309C-41CD-9BD2-8A8114448D3B}",
+        "obj-type": 5,
+        "P_X": 756560.4,
+        "P_Y": 2966061.13
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13100633595099,
+          42.39861330989662
+        ]
+      },
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 61,
+        "GlobalID": "{0F84A080-D696-414E-910B-A3232740B7F9}",
+        "obj-type": 5,
+        "P_X": 755834.69999999,
+        "P_Y": 2970500.44,
+        "Intersection": "Gold Star Rd & Gold Star Road Pl",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13226380937752,
+          42.3814531280937
+        ]
+      },
+      "type": "Feature",
+      "id": 430,
+      "properties": {
+        "marker-color": "#ff2600",
+        "NodeNumber": 637,
+        "GlobalID": "{08916EF6-24F4-4030-8100-03EE0C98BF6F}",
+        "obj-type": 5,
+        "P_X": 755522.01,
+        "P_Y": 2964245.4,
+        "Intersection": "Huron Ave & Sparks St",
+        "IntersectingStreetCount": 2
+      }
+    }
+  ]
+}

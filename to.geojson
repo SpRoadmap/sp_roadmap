@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14108147990561,
+          42.39689970856259
+        ]
+      },
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "NodeNumber": 100,
+        "GlobalID": "{591C380D-2A7B-4300-8F99-E9C18472B5F9}",
+        "obj-type": "to",
+        "P_X": 753115.97,
+        "P_Y": 2969864.35,
+        "Intersection": "Alewife Brook Pkwy & Alewife T Station Access Rd & Concord Tpk",
+        "IntersectingStreetCount": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10122968109162,
+          42.3681200962456
+        ]
+      },
+      "type": "Feature",
+      "id": 1391,
+      "properties": {
+        "NodeNumber": 1545,
+        "GlobalID": "{E71200D0-B034-4AA2-A433-3473146A0731}",
+        "obj-type": "to",
+        "P_X": 763929.5,
+        "P_Y": 2959424.23,
+        "Intersection": "Harvard St & Scouting Way",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10679712175686,
+          42.36086242942866
+        ]
+      },
+      "type": "Feature",
+      "id": 1684,
+      "properties": {
+        "NodeNumber": 1972,
+        "GlobalID": "{BB943AEC-2D0F-4BFD-AC44-E67DAAB8F01C}",
+        "obj-type": "to",
+        "P_X": 762437.17,
+        "P_Y": 2956772.4,
+        "Intersection": "Pearl St & Valentine St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13447058181589,
+          42.371634172547616
+        ]
+      },
+      "type": "Feature",
+      "id": 1336,
+      "properties": {
+        "obj-type": "to",
+        "P_Y": 2960664.59,
+        "NodeNumber": 1279,
+        "P_X": 754941.11999999,
+        "GlobalID": "{0399419C-EEEE-497D-9C02-119E366E1D87}"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11236060473959,
+          42.362664227271104
+        ]
+      },
+      "type": "Feature",
+      "id": 1620,
+      "properties": {
+        "NodeNumber": 1880,
+        "GlobalID": "{99BE1AD0-B746-488D-BA8D-F60BF4609D02}",
+        "obj-type": "to",
+        "P_X": 760930.56,
+        "P_Y": 2957422.13,
+        "Intersection": "Fairmont St & River St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11299995213314,
+          42.382272021586125
+        ]
+      },
+      "type": "Feature",
+      "id": 402,
+      "properties": {
+        "NodeNumber": 601,
+        "GlobalID": "{DA7432BC-AC7D-432D-905A-342896AD0D5C}",
+        "obj-type": "to",
+        "P_X": 760725.35,
+        "P_Y": 2964566.85,
+        "Intersection": "Carver St & Wendell St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09698676041643,
+          42.37192951040353
+        ]
+      },
+      "type": "Feature",
+      "id": 1330,
+      "properties": {
+        "obj-type": "to",
+        "P_Y": 2960817.85,
+        "NodeNumber": 1240,
+        "P_X": 765069.52999999,
+        "GlobalID": "{01DC545F-4819-4564-ABAE-152BEA410871}"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12110513651795,
+          42.37141629198647
+        ]
+      },
+      "type": "Feature",
+      "id": 664,
+      "properties": {
+        "NodeNumber": 1299,
+        "GlobalID": "{16497BCD-D4F2-47C8-8573-120062EE0C79}",
+        "obj-type": "to",
+        "P_X": 758553.1,
+        "P_Y": 2960600.95,
+        "Intersection": "Eliot St & JFK St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1579253614516,
+          42.39308765788562
+        ]
+      },
+      "type": "Feature",
+      "id": 168,
+      "properties": {
+        "NodeNumber": 213,
+        "GlobalID": "{FBA4DB51-F534-4ABD-8595-6DF41F444D3C}",
+        "obj-type": "to",
+        "P_X": 748571.77999999,
+        "P_Y": 2968456.45,
+        "Intersection": "Blanchard Rd & South Normandy Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08228925419357,
+          42.36781765020483
+        ]
+      },
+      "type": "Feature",
+      "id": 1401,
+      "properties": {
+        "NodeNumber": 1559,
+        "GlobalID": "{8072DD47-5B53-4028-B580-52A840E1614C}",
+        "obj-type": "to",
+        "P_X": 769048.42,
+        "P_Y": 2959338.51,
+        "Intersection": "Charles St & Sciarappa St",
+        "IntersectingStreetCount": 2
+      }
+    }
+  ]
+}

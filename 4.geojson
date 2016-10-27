@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11378452314476,
+          42.36381126824384
+        ]
+      },
+      "type": "Feature",
+      "id": 1590,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 1829,
+        "GlobalID": "{D82BF85F-B564-489B-9D16-DEC0B4866500}",
+        "obj-type": 4,
+        "P_X": 760543.84,
+        "P_Y": 2957838.39,
+        "Intersection": "Ballord Pl & Putnam Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12984241621731,
+          42.37936042102458
+        ]
+      },
+      "type": "Feature",
+      "id": 486,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 715,
+        "GlobalID": "{715CD4FC-75C0-44AD-B2D3-8E039AB9F88E}",
+        "obj-type": 4,
+        "P_X": 756179.52999999,
+        "P_Y": 2963485.6,
+        "Intersection": "Buckingham St & Parker St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09914996015097,
+          42.35596042292445
+        ]
+      },
+      "type": "Feature",
+      "id": 1727,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 2093,
+        "GlobalID": "{F4CE8D88-D668-4B34-ABF2-982F88F24A1F}",
+        "obj-type": 4,
+        "P_X": 764512.34,
+        "P_Y": 2954995.63,
+        "Intersection": "Amherst Aly & Fowler St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13372472397486,
+          42.377383233363524
+        ]
+      },
+      "type": "Feature",
+      "id": 555,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 829,
+        "GlobalID": "{EDFBBAA3-F4D5-4CD6-AA8E-3ED84ECF2376}",
+        "obj-type": 4,
+        "P_X": 755133.67,
+        "P_Y": 2962760.54,
+        "Intersection": "Brattle St & Lowell St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11933855285763,
+          42.372252451031386
+        ]
+      },
+      "type": "Feature",
+      "id": 1112,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 1217,
+        "GlobalID": "{10C08CBF-4404-4816-9374-FFF21E264BD9}",
+        "obj-type": 4,
+        "P_X": 759029.10999999,
+        "P_Y": 2960907.79,
+        "Intersection": "Dunster St & Mt Auburn St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1091201534517,
+          42.37768651388728
+        ]
+      },
+      "type": "Feature",
+      "id": 1853,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 800,
+        "GlobalID": "{F716F817-1BF7-4AB5-9E24-F955F0E96BD1}",
+        "obj-type": 4,
+        "P_X": 761784.51999999,
+        "P_Y": 2962901.79,
+        "Intersection": "Kirkland St & Sedgwick Rd",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13174092982241,
+          42.385184755542554
+        ]
+      },
+      "type": "Feature",
+      "id": 304,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 470,
+        "GlobalID": "{76FEE627-1077-4DED-9F33-2476F26E816E}",
+        "obj-type": 4,
+        "P_X": 755657.41,
+        "P_Y": 2965605.9,
+        "Intersection": "Garden St & Stearns St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15243549205935,
+          42.38001538191469
+        ]
+      },
+      "type": "Feature",
+      "id": 469,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 694,
+        "GlobalID": "{6FEBFE86-A0E7-44D3-9D15-1EDFDA24960A}",
+        "obj-type": 4,
+        "P_X": 750074.17,
+        "P_Y": 2963698.6,
+        "Intersection": "Cushing St & Huron Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08001013439436,
+          42.370321118237555
+        ]
+      },
+      "type": "Feature",
+      "id": 1175,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 1382,
+        "GlobalID": "{5C7F72D7-13D6-4856-BEB4-6B72D425EE17}",
+        "obj-type": 4,
+        "P_X": 769659.83,
+        "P_Y": 2960253.85,
+        "Intersection": "Otis St & Third St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09896623298812,
+          42.3650471720077
+        ]
+      },
+      "type": "Feature",
+      "id": 1535,
+      "properties": {
+        "marker-color": "#ff9300",
+        "NodeNumber": 1753,
+        "GlobalID": "{03ACFA20-1CCD-48F1-AA97-E3AAC991D2F3}",
+        "obj-type": 4,
+        "P_X": 764546.43,
+        "P_Y": 2958307.26,
+        "Intersection": "Columbia St & Renz Way",
+        "IntersectingStreetCount": 2
+      }
+    }
+  ]
+}

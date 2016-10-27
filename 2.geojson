@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1308592977004,
+          42.395795516140545
+        ]
+      },
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 120,
+        "GlobalID": "{DF741BFD-266A-40E3-80D0-FD5FA0CBD698}",
+        "obj-type": 2,
+        "P_X": 755878.85999999,
+        "P_Y": 2969473.74,
+        "Intersection": "Cedar St & Dudley St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13184316286419,
+          42.39012477827182
+        ]
+      },
+      "type": "Feature",
+      "id": 222,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 308,
+        "GlobalID": "{D9239FE4-5F90-49D7-A2E1-3C574E121095}",
+        "obj-type": 2,
+        "P_X": 755622.01999999,
+        "P_Y": 2967406.04,
+        "Intersection": "Blair Pl & Bolton St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11475047787594,
+          42.36618459586205
+        ]
+      },
+      "type": "Feature",
+      "id": 811,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 1677,
+        "GlobalID": "{4276C99B-5947-4F04-8A03-B6D0FDCB77C8}",
+        "obj-type": 2,
+        "P_X": 760278.88,
+        "P_Y": 2958702.1
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15163330851118,
+          42.37990692500136
+        ]
+      },
+      "type": "Feature",
+      "id": 475,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 700,
+        "GlobalID": "{610EC043-2DA4-4C56-9C14-BF830674E336}",
+        "obj-type": 2,
+        "P_X": 750291.07,
+        "P_Y": 2963659.96,
+        "Intersection": "Holworthy St & Huron Ave",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07803434256297,
+          42.365878435097564
+        ]
+      },
+      "type": "Feature",
+      "id": 1497,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 1687,
+        "GlobalID": "{19EB5D50-9AD2-4403-90CB-BAABB1A6BF06}",
+        "obj-type": 2,
+        "P_X": 770201.75,
+        "P_Y": 2958637.48,
+        "Intersection": "First St & Rogers St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14490916539411,
+          42.37610400124859
+        ]
+      },
+      "type": "Feature",
+      "id": 932,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 909,
+        "GlobalID": "{2BAECFA9-6C36-4EF1-84B2-C28CB27ED98C}",
+        "obj-type": 2,
+        "P_X": 752113.60999999,
+        "P_Y": 2962281.58
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14232411984996,
+          42.394619974799646
+        ]
+      },
+      "type": "Feature",
+      "id": 94,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 2164,
+        "GlobalID": "{BE3D8748-BDE3-44DF-AF0C-553538EE80AD}",
+        "obj-type": 2,
+        "P_X": 752783.8,
+        "P_Y": 2969032.15,
+        "Intersection": "Alewife T Station Access Rd & Cambridgepark Dr & Cambridgepark Pl",
+        "IntersectingStreetCount": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13425921013793,
+          42.39862547762723
+        ]
+      },
+      "type": "Feature",
+      "id": 117,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 60,
+        "GlobalID": "{3C433704-E5DA-4801-9977-02F372E73D8C}",
+        "obj-type": 2,
+        "P_X": 754956.06,
+        "P_Y": 2970501.09
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13287213167708,
+          42.38327894121288
+        ]
+      },
+      "type": "Feature",
+      "id": 373,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 562,
+        "GlobalID": "{E9C56D62-CCBE-4C80-855E-6379F838D0E9}",
+        "obj-type": 2,
+        "P_X": 755354.78999999,
+        "P_Y": 2964910.06,
+        "Intersection": "Concord Ave & Donnell St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10098498090318,
+          42.359483623836255
+        ]
+      },
+      "type": "Feature",
+      "id": 737,
+      "properties": {
+        "marker-color": "#00f900",
+        "NodeNumber": 2014,
+        "GlobalID": "{C66BC69D-D778-4D8E-BC05-12C7B7C74700}",
+        "obj-type": 2,
+        "P_X": 764010.35,
+        "P_Y": 2956277.23,
+        "Intersection": "Pacific St & Purrington St & Waverly St",
+        "IntersectingStreetCount": 3
+      }
+    }
+  ]
+}

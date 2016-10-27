@@ -1,0 +1,212 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06915095527434,
+          42.369328759754225
+        ]
+      },
+      "type": "Feature",
+      "id": 1765,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 2208,
+        "GlobalID": "{B55ADC20-0E34-49BB-9197-F8F173D51B4F}",
+        "obj-type": 1,
+        "P_X": 772596.09,
+        "P_Y": 2959906.85
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12459959244592,
+          42.38596266881366
+        ]
+      },
+      "type": "Feature",
+      "id": 854,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 436,
+        "GlobalID": "{24D83DCE-CE0A-41F0-88DE-AD11884FF033}",
+        "obj-type": 1,
+        "P_X": 757585.49,
+        "P_Y": 2965897.8
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11104182692264,
+          42.35791158014871
+        ]
+      },
+      "type": "Feature",
+      "id": 760,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 2043,
+        "GlobalID": "{1E11FFCE-66CA-4F06-9211-D7D70A55DDE6}",
+        "obj-type": 1,
+        "P_X": 761294.86999999,
+        "P_Y": 2955691.79,
+        "Intersection": "Chestnut St & Newton St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09681552339099,
+          42.368824644834724
+        ]
+      },
+      "type": "Feature",
+      "id": 1360,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 1508,
+        "GlobalID": "{75FEFA08-F6D1-4395-88B4-084EDC3375F1}",
+        "obj-type": 1,
+        "P_X": 765121.15,
+        "P_Y": 2959686.59,
+        "Intersection": "Columbia St & Market St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06978922708974,
+          42.36981822340876
+        ]
+      },
+      "type": "Feature",
+      "id": 1204,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 1418,
+        "GlobalID": "{E72DCEBE-39FE-4DE4-B3C4-6CF022C52BAB}",
+        "EditDate": "2015",
+        "obj-type": 1,
+        "P_X": 772422.71,
+        "P_Y": 2960084.35,
+        "Intersection": "Education St & Education Cir",
+        "IntersectingStreetCount": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15466031768521,
+          42.39425757459793
+        ]
+      },
+      "type": "Feature",
+      "id": 98,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 172,
+        "GlobalID": "{11A34055-0190-42B3-9CC5-5B100629F7AB}",
+        "obj-type": 1,
+        "P_X": 749452.03999999,
+        "P_Y": 2968886.35,
+        "Intersection": "Normandy Ave & Normandy Ter & Normandy Terrace Ext",
+        "IntersectingStreetCount": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09787866422252,
+          42.36262251847392
+        ]
+      },
+      "type": "Feature",
+      "id": 1619,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 1879,
+        "GlobalID": "{EB615C0D-9FE7-4C31-A262-EDC1B691FCF3}",
+        "obj-type": 1,
+        "P_X": 764844.51,
+        "P_Y": 2957425.05,
+        "Intersection": "State St & Village St",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09139268684321,
+          42.36940783431043
+        ]
+      },
+      "type": "Feature",
+      "id": 1233,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 1464,
+        "GlobalID": "{AEA2B660-5E2C-436A-8E87-CA5C70938330}",
+        "obj-type": 1,
+        "P_X": 766585.56,
+        "P_Y": 2959906.09,
+        "Intersection": "Berkshire St & York Pl & York St",
+        "IntersectingStreetCount": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0894088210037,
+          42.364790713774504
+        ]
+      },
+      "type": "Feature",
+      "id": 1548,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 2190,
+        "GlobalID": "{A3ED60C3-4A80-453C-A8F4-1EECB516C3E5}",
+        "obj-type": 1,
+        "P_X": 767129.76,
+        "P_Y": 2958226.09,
+        "Intersection": "Broadway & Galilei Way",
+        "IntersectingStreetCount": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08864315040869,
+          42.373526061172875
+        ]
+      },
+      "type": "Feature",
+      "id": 1030,
+      "properties": {
+        "marker-color": "#0433ff",
+        "NodeNumber": 1098,
+        "GlobalID": "{541178B6-3317-4553-B432-FB1AD30FE3F5}",
+        "obj-type": 1,
+        "P_X": 767321.33,
+        "P_Y": 2961410.43,
+        "Intersection": "Bedford St & Porter St",
+        "IntersectingStreetCount": 2
+      }
+    }
+  ]
+}
